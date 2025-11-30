@@ -2,18 +2,31 @@
 
 **项目结构**
 calculator_41/
+
 ├── docs/ # 项目文档
+
 │ ├── strategy_analysis.md
+
 │ └── development_guide.md
+
 ├── src/ # 源代码
+
 │ ├── css/
+
 │ │ └── style.css
+
 │ ├── js/
+
 │ │ └── calculator.js
+
 │ └── index.html
+
 ├── README.md
+
 ├── CHANGELOG.md
+
 ├── LICENSE
+
 └── package.json
 
 **技术架构**
@@ -62,4 +75,5 @@ calculator_41/
   [ ] 多人协作计算
   [ ] 数据可视化
   [ ] 插件系统
+
 
